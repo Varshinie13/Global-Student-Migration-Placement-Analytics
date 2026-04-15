@@ -1,4 +1,4 @@
-# Global-Student-Migration-Placement-Analytics
+# Global-Student-Migration-Placement-Analytics (Tableau Project)
 
 Project Overview
 This project analyzes a dataset of 5,000 international students to identify trends in global migration, academic performance, and career outcomes. Using Tableau, I developed an interactive dashboard and data story to visualize the journey from enrollment to professional placement in top-tier global firms.
